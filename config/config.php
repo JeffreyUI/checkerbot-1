@@ -9,7 +9,7 @@
 | It can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['botToken'] = "";
+$config['botToken'] = "5803972339:AAEwiadZ8Vz9nwLZoxtgbrjZvE6AY80g2bo";
 
 /*
 |--------------------------------------------------------------------------
@@ -20,7 +20,8 @@ $config['botToken'] = "";
 | ID can be obtained from https://telegram.dog/username_to_id_bot
 |
 */
-$config['adminID'] = "";
+$config['adminID'] = "5800188803";
+$config['adminID'] = "5511060759";
 
 /*
 |--------------------------------------------------------------------------
@@ -31,7 +32,7 @@ $config['adminID'] = "";
 | ID can be obtained from https://telegram.dog/BotFather
 |
 */
-$config['logsID'] =  "";
+$config['logsID'] =  "1001867434430";
 
 /*
 |--------------------------------------------------------------------------
@@ -78,5 +79,7 @@ $config['anti_spam_timer'] =  "20";
 | array('sk1','sk2','sk3')
 |
 */
-$config['sk_keys'] =  array('sk_live_69GKI0saLB8uIEnxzv8VTvRX');
+$config['sk_keys'] =  array('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');
+$config['sk_keys'] = array('sk1_live_51MTOrsIiaG4zUjrAHoe0ZEPC6B7nQfdBC6RxrMODsNgxp1H1vBOtGiHekj2zm501SEQ55AXGWLegs2UxCDAn0wIK00m1uijw5O');
+$config['sk_keys'] = array('sk2_live_51MWVy2EOWr2oCpstU5MkvcEPoAoiBLVNfECdebrSQbHg4hWilQfFHrdRboqw1K3J0pzIfofnPliJ3Qh0uZucGv6U00ZizI8CWX');
 ?>

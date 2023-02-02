@@ -53,9 +53,9 @@ $config['timeZone'] =  "Asia/Kolkata";
 | Database to Store User Data
 |
 */
-$config['db']['hostname'] =  "localhost";
-$config['db']['username'] =  "root";
-$config['db']['password'] =  "";
+$config['db']['hostname'] =  "us-west.connect.psdb.cloud";
+$config['db']['username'] =  "zsmt35kst9aflwji20gh";
+$config['db']['password'] =  "pscale_pw_3mAHz3GDWILTJO4TbzYpDgy7NBLR73pNBwy0H1CbSzV";
 $config['db']['database'] =  "checkerbot";
 
 /*

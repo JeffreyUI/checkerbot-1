@@ -31,7 +31,7 @@ CREATE TABLE `antispam` (
 
 CREATE TABLE `global_checker_stats` (
   `total_checked` varchar(100) NOT NULL,
-  `total_ccn` varchar(100) NOT NULL,
+  `total_ccn` varchar(100) NOT NULL,"INSTALL REQUIREMENTS.TXT "structure dumped START"
   `total_cvv` varchar(100) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
